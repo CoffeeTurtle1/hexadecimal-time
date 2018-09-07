@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 150px;
+    font-size: 50px;
+    text-align: center;
+    background-color: #141414;
+    color: white;
+}
+#clock {
+    font-size: 150px;
+}
